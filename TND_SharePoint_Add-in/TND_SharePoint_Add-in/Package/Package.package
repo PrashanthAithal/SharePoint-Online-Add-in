@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="7bd46131-913f-4f92-9450-e75e668d27e4" 
+        solutionId="7bd46131-913f-4f92-9450-e75e668d27e4" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="TND_SharePoint_Add_in"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="3558603b-3332-4874-b625-98266a8c325e" />
+  </features>
+</package>

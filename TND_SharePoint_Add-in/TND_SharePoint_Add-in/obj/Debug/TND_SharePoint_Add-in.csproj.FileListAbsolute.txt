@@ -1,0 +1,4 @@
+D:\developer\2017\TND_SharePoint_Add-in\TND_SharePoint_Add-in\bin\Debug\TND_SharePoint_Add-in.pdb
+D:\developer\2017\TND_SharePoint_Add-in\TND_SharePoint_Add-in\obj\Debug\TND_SharePoint_Add-in.csproj.CoreCompileInputs.cache
+D:\developer\2017\TND_SharePoint_Add-in\TND_SharePoint_Add-in\obj\Debug\TND_SharePoint_Add-in.dll
+D:\developer\2017\TND_SharePoint_Add-in\TND_SharePoint_Add-in\obj\Debug\TND_SharePoint_Add-in.pdb
